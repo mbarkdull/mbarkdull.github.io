@@ -16,8 +16,8 @@ output:
    });
 </script>
 
-I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. I started my graduate studies in August 2019, in the lab of [Dr. Corrie Moreau](http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/) in the Department of Ecology and Evolutionary Biology at Cornell University. I'm currently investigating patterns of molecular evolution associated with different manifestations of phenotypic plasticity in ants. 
+I am an evolutionary biologist with an interest in the genetics underlying complex traits in ants. In August 2019, I started my graduate studies in the lab of [Dr. Corrie Moreau](http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/) in the Department of Ecology and Evolutionary Biology at Cornell University. I'm currently investigating patterns of molecular evolution associated with different manifestations of phenotypic plasticity in ants. 
 
-If I’m not running analyses and writing scripts, I might be found [thinking about, and working toward,](https://docs.google.com/document/d/1CmyBVG3H-OBqUIomPKoBPwLVUdLC1WWtvhH836ZeJ7o/edit?usp=sharing) making ecology and evolutionary biology a better, more anti-racist space through my departmental roles as a graduate student, member of Cornell EEB Seminar series committee, and Cornell EEB Graduate Student Association co-president. 
+I also have a longstanding love of natural history museums, which dates back to childhood visits to the Smithsonian and which was deepened by my REU experience working in the American Museum of Natural History. Here at Cornell, I'm fortunate to contribute to the Cornell University Insect Collection's databasing efforts, focusing on digitizing label data for our collection of ants. I'm always interested in incorporating museum collections into my work. 
 
-I also enjoy hiking, nature photography, [creating art](art.html), and cooking. 
+Outside of work, I also enjoy hiking, nature photography, [creating art](art.html), and cooking. 
