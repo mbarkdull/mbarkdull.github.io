@@ -30,6 +30,8 @@ output:
 
 <span style="color: #E1DBE5;">.</span> 
 
+## Research
+
 ### How does phenotypic plasticity impact molecular evolution?
 Phenotypic plasticity, or the production of multiple phenotypes from a single genotype, is ubiquitous across the tree of life and may play an important role in generating biodiversity on Earth. Ants are a great system in which to study phenotypic plasticity: ant colonies are composed of individuals with very similar genomes who nevertheless look and behave in very different ways. I am currently using comparative genomics to explore how different manifestations of phenotypic plasticity are related to patterns of molecular evolution in 24 ant species. 
 

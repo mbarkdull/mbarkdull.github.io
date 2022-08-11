@@ -18,6 +18,7 @@ h1.title {
 }
 </style>
 
-![](cvarians_queenandsoldier.png)
+<center> National Science Foundation Graduate Research Fellow and Ph.D. Candidate at Cornell University. </center>
 
-<center> Insects. Genomics. Complex traits. </center>
+![](meganExhibit.jpg)
+
