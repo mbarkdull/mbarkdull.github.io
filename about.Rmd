@@ -12,7 +12,7 @@ output:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"headshot.jpeg\" style=\"float: left;width: 300px;padding: 20px\"/>')
+     $head.prepend('<img src=\"headshot.png\" style=\"float: left;width: 350px;padding: 20px\"/>')
    });
 </script>
 
@@ -22,4 +22,3 @@ I also have a longstanding love of natural history museums, which dates back to 
 
 I would never have become a scientist without mentors who believed in me, and without exposure to the different kinds of research that can be done. Now, mentorship and outreach are important components of my role as a graduate student. I have helped put together [museum exhibits](https://www.museumoftheearth.org/six-legged-science); write about [museums and biodiversity for general audiences](https://www.priweb.org/blog-post/insects-under-threat-the-role-of-natural-history-collections-in-biodiversity-conservation); and share my research through [panels and talks](https://bit.ly/3s4jOGB).  
 
-Outside of work, I also enjoy hiking, nature photography, [creating art](art.html), and cooking. 
