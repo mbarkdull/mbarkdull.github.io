@@ -15,4 +15,6 @@ navbar:
       href: art.html
     - text: "Contact"
       href: contact.html
-
+output:
+  html_document:
+    css: 'styles.css'

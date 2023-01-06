@@ -1,0 +1,67 @@
+/* This sets the fonts that your website uses; you can get fonts at: https://fonts.google.com/?sidebar.open&selection.family=Montserrat:wght@500|Roboto:wght@100;900. Just select a font, and from the right hand sidebar, click "embed", click "@import", and you'll get the import url and the info to specify font families. You'll need to specifically select different font weights if you want to use those. */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:wght@100;700;900&display=swap');
+
+h1, h2, h3 {
+ font-family: 'Roboto', sans-serif;
+ font-weight: 700;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* This sets the link text color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
+
+a { color: #814FA0; } /* CSS link color */
+
+
+/*----------------NAVBAR ---------------*/
+.navbar-default {
+    background-color: #d3cad9;
+}
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.active>a, 
+dropdown-toggle:hover {
+  background-color: #d3cad9;
+}
+
+/* Dropdown menu color */
+.navbar-default .dropdown-menu {
+  background-color: #d3cad9;
+}
+
+/* Dropdown menu hover color */
+  .navbar-default .dropdown-menu>li>a:hover {
+    background-color: #d3cad9;
+  }
+
+/* Navbar Links when hovered*/
+.navbar-default .dropdown-menu>.active>a,
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav:hover, 
+.navbar-default .navbar-nav>li>a:hover, 
+navbar-brand:hover {
+  color: #ffffffab;
+  background-color: #d3cad9;
+}
+
+/* This sets the background body color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
+
+body {
+  background-color: #e1dbe5   /*light muted lavender */;
+}
+
+/* This formats the social media icons on the contact page. The icons at the bottom of each page have just the default formatting. */
+
+.socialMediaLinks a {
+    font-size: 35px;
+    margin: 0 10px 0 0;
+    color: #000000;
+    text-decoration: none;
+}
