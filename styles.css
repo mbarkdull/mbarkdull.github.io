@@ -1,14 +1,18 @@
 /* This sets the fonts that your website uses; you can get fonts at: https://fonts.google.com/?sidebar.open&selection.family=Montserrat:wght@500|Roboto:wght@100;900. Just select a font, and from the right hand sidebar, click "embed", click "@import", and you'll get the import url and the info to specify font families. You'll need to specifically select different font weights if you want to use those. */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:wght@100;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto:wght@100;700;900&family=Archivo+Black&display=swap');
 
 h1, h2, h3 {
- font-family: 'Roboto', sans-serif;
+ font-family: 'Archivo Black', sans-serif;
  font-weight: 700;
+ color: #61344e;
 }
 
 body {
   font-family: 'Montserrat', sans-serif;
+  line-height: 1.75em;
+  margin-top: 2.5em ;
+  margin-bottom: 2.5em ;
 }
 
 p {
