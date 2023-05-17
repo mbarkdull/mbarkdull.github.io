@@ -17,12 +17,15 @@ output:
 
 </style>
 
+## Current research
+
+
 <!-- This adds the floating image of my study organisms to the right of the text.  -->
 
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"websitesidebar.png\" style=\"float: right;width: 250px;\"/>')
+     $head.prepend('<img src=\"tallCephalotes.gif\" style=\"float: right;padding: 50px 0px 0px 30px;width: 215px;\"/>')
    });
 </script>
 
@@ -30,7 +33,7 @@ output:
 
 <span style="color: #E1DBE5;">.</span> 
 
-## Current research
+
 
 ### How do social traits influence genome-wide patterns of evolution?
 We know that organismal traits, ranging from generation time to temperature preference, can influence genome evolution across generations. But how do **social** traits influence the genome? Ants are a great group in which to explore this question: they are descended from a single, social ancestor, but have tons of diversity in interesting social traits, like reproductive and caste systems. I am currently using comparative genomics to explore how these social traits are related to patterns of molecular evolution in 22 ant species. 
@@ -59,4 +62,7 @@ While completing my undergraduate degree at New College of Florida, I participat
 
 ### Other research experiences:
 During my gap year, I took part in a number of research activities here at Cornell. Working with two researchers at the Lab of Ornithology, I analyzed birdsong recordings to understand how [vocal learning shapes evolution](https://marceloarayasalas.weebly.com/) and diversification, and how [complexity in female vs. male songs has evolved](https://femalebirdsong.org/). I also continued to build on my population genetics background as a post-baccalaureate intern in [Dr. Kelly Zamudio’s lab](https://zamudiolab.org/), assisting  lab members with data analyses and wet-lab work. 
+
+![](websitesidebarhorizontal.png)
+
 
