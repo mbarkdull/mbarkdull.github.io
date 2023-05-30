@@ -36,7 +36,9 @@ output:
 
 
 ### How do social traits influence genome-wide patterns of evolution?
-We know that organismal traits, ranging from generation time to temperature preference, can influence genome evolution across generations. But how do **social** traits influence the genome? Ants are a great group in which to explore this question: they are descended from a single, social ancestor, but have tons of diversity in interesting social traits, like reproductive and caste systems. I am currently using comparative genomics to explore how these social traits are related to patterns of molecular evolution in 22 ant species. 
+We know that organismal traits, ranging from generation time to temperature preference, can influence genome evolution across generations. But how do **social** traits influence the genome? Ants are a great group in which to explore this question: they are descended from a single, social ancestor, but have tons of diversity in interesting social traits, like reproductive and caste systems. 
+
+Here, I leveraged 22 ant genomes to understand how worker reproduction and worker caste polymorphisms modulate patterns of molecular evolution, both genome-wide and in candidate genes linked to this social traits. As predicted, worker reproduction is associated with an increase in selection intensity across the genome, but to our surprise, caste system has no clear effect on molecular evolution. Check out our paper in [Genome Biology and Evolution](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evad095/7181139) to learn more.  
 
 ### What are the genetic mechanisms underlying morphological caste in *Cephalotes* ants?
 In some ant species, multiple distinct adult morphologies can develop from a single genotype via plastic development, producing polymorphic caste systems. I leverage the variation in caste system found across species in the ant genus *Cephalotes* to better understand the genetic mechanisms which may produce ant castes. 
