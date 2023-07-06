@@ -10,7 +10,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: MeganCV.pdf
+      href: CV.html
     - text: "Art"
       href: art.html
     - text: "Contact"
