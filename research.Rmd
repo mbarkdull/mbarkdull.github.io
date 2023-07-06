@@ -41,7 +41,7 @@ We know that organismal traits, ranging from generation time to temperature pref
 Here, I leveraged 22 ant genomes to understand how worker reproduction and worker caste polymorphisms modulate patterns of molecular evolution, both genome-wide and in candidate genes linked to this social traits. As predicted, worker reproduction is associated with an increase in selection intensity across the genome, but to our surprise, caste system has no clear effect on molecular evolution. Check out our paper in [Genome Biology and Evolution](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evad095/7181139) to learn more.  
 
 ### What are the genetic mechanisms underlying morphological caste in *Cephalotes* ants?
-In some ant species, multiple distinct adult morphologies can develop from a single genotype via plastic development, producing polymorphic caste systems. I leverage the variation in caste system found across species in the ant genus *Cephalotes* to better understand the genetic mechanisms which may produce ant castes. 
+In some ant species, multiple distinct adult morphologies can develop from a single genotype via developmental plasticity, producing polymorphic caste systems. I leverage the variation in caste system found across species in the ant genus *Cephalotes* to better understand the genetic mechanisms which may produce ant castes. 
 <span style="color: #E1DBE5;">. 
 
 </span> 
