@@ -7,7 +7,7 @@ output:
       after_body: footer.html
 ---
 
-Please click [HERE](./MeganCV.pdf) for my CV. 
+If the embedded PDF does not load, please click [HERE](./MeganCV.pdf) for my CV. 
 
 <embed src="./MeganCV.pdf" type="application/pdf" width="100%" height="800px">
 
