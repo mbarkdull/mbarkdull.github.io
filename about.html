@@ -11,9 +11,10 @@
 
 
 
-<title>I am Megan Barkdull.</title>
+<title>People</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -56,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="CSSBackgrounds.css" type="text/css" />
 <link rel="stylesheet" href="CSSFonts.css" type="text/css" />
 <link rel="stylesheet" href="styles.css" type="text/css" />
@@ -82,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -172,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -181,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -234,12 +236,12 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Megan Barkdull</a>
+      <a class="navbar-brand" href="index.html">Barkdull Lab</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -247,19 +249,10 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="about.html">About Me</a>
-</li>
-<li>
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="curation.html">Curatorial involvement</a>
-</li>
-<li>
-  <a href="cv.html">CV</a>
-</li>
-<li>
-  <a href="art.html">Art</a>
+  <a href="about.html">People</a>
 </li>
 <li>
   <a href="contact.html">Contact</a>
@@ -276,21 +269,46 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">I am Megan Barkdull.</h1>
+<h1 class="title toc-ignore">People</h1>
 
 </div>
 
 
-<!-- This adds my headshot, floating to the left of the text and with 20 pixels of padding around it.  -->
-<script>
-   $(document).ready(function() {
-     $head = $('#header');
-     $head.prepend('<img src=\"headshot.png\" style=\"float: left;width: 350px;padding: 20px\"/>')
-   });
-</script>
-<p>I am an evolutionary biologist with an interest in the genetic basis and evolutionary consequences of complex traits in ants. In August 2019, I joined the lab of <a href="http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/">Dr. Corrie Moreau</a> in the Department of Ecology and Evolutionary Biology at Cornell University. I’m currently investigating patterns of molecular evolution associated with a variety of social traits in ants.</p>
-<p>I also have a longstanding love of natural history museums, which dates back to childhood visits to the Smithsonian and which was deepened by my REU experience working in the American Museum of Natural History. Here at Cornell, I’m fortunate to work with the Cornell University Insect Collection in a number of ways, ranging from specimen databasing to <a href="https://www.museumoftheearth.org/six-legged-science">exhibit curation</a>. I’m always interested in incorporating museum collections into my work.</p>
-<p>I would never have become a scientist without mentors who believed in me, and without exposure to a variety of evolutionary research. Now, mentorship and outreach are important components of my role as a graduate student. I have helped put together <a href="https://www.museumoftheearth.org/six-legged-science">museum exhibits</a>; write about <a href="https://www.priweb.org/blog-post/insects-under-threat-the-role-of-natural-history-collections-in-biodiversity-conservation">museums and biodiversity for general audiences</a> and for <a href="https://kids.frontiersin.org/articles/10.3389/frym.2023.1048608">kids</a>; mentor undergraduate researchers; and share my research through <a href="https://youtu.be/HZ0WdZk84wM">panels</a> and <a href="https://www.youtube.com/watch?v=S__qv9kKUlY">talks</a>.</p>
+<div style="display: flex;">
+<div>
+<p><img src="headshotSmaller.png" style="width:90.0%" /></p>
+</div>
+<div id="megan-barkdull" class="section level3">
+<h3>Megan Barkdull</h3>
+<p>I am an evolutionary biologist with an interest in the genetic basis
+and evolutionary consequences of complex traits in ants. In Winter 2024,
+I will receive my Ph.D. in Ecology and Evolutionary Biology at Cornell
+University. While there, I’ve worked in the lab of <a
+href="http://www.moreaulab.entomology.cornell.edu/people/corrie-moreau/">Dr. Corrie
+Moreau</a> to investigate patterns of molecular evolution associated
+with a variety of social traits in ants.</p>
+<p>In January 2025, I will begin as the Assistant Curator of Entomology
+at the <a href="https://nhm.org">Natural History Museum of Los Angeles
+County</a>.</p>
+<p>Learn more about my research, curation, and outreach <a
+href="aboutMegan.html">here</a></p>
+</div>
+</div>
+<div style="display: flex;">
+<div>
+<p><img src="keysSunset.png" style="width:90.0%" /></p>
+</div>
+<div id="you" class="section level3">
+<h3>You?</h3>
+<p>Interested in appearing here? Please contact me if you are interested
+in being a postdoctoral associate or undergraduate working on an
+independent project. I am particularly interested in working with
+prospective postdoctoral research to craft fellowship proposals
+(e.g. for the <a
+href="https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb">NSF
+PRFB</a>).</p>
+</div>
+</div>
 
 
 <!-- Add icon library -->
@@ -305,6 +323,7 @@ $(document).ready(function () {
     </a>
 </p>
 </div>
+
 
 
 

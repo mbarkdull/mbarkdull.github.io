@@ -1,5 +1,5 @@
 ---
-title: "MEGAN BARKDULL"
+title: ""
 output: 
   html_document:
     css: 'styles.css'
@@ -7,31 +7,8 @@ output:
       after_body: footer.html
 ---
 
-<!-- This centers the title text on this page.  -->
-
-<style type="text/css">
-
-h1.title {
-  font-size: 60px;
-  color: ;
-  text-align: center;
-}
-</style>
-
-<center> National Science Foundation Graduate Research Fellow and Ph.D. Candidate at Cornell University. </center>
-
-</span> 
-<span style="color: #E1DBE5;">. 
-
-</span> 
-
 <center>
-<div style="position:absolute; width:130%">
-![](websiteBackground.png)
-</div>
+
+![](websiteLandingpage.png){ width=80% }
+
 </center>
-
-
-
-
-
