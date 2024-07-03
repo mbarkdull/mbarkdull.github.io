@@ -25,5 +25,13 @@ h1.title {
 
 </span> 
 
-![](meganExhibit.jpg)
+<center>
+<div style="position:absolute; width:130%">
+![](websiteBackground.png)
+</div>
+</center>
+
+
+
+
 
