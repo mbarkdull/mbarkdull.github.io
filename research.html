@@ -284,15 +284,10 @@ $(document).ready(function () {
 </style>
 <div id="current-research" class="section level2">
 <h2>Current research</h2>
-<!-- This adds the floating image of my study organisms to the right of the text.  -->
-<script>
-   $(document).ready(function() {
-     $head = $('#header');
-     $head.prepend('<img src=\"tallCephalotes.gif\" style=\"float: right;padding: 50px 0px 0px 30px;width: 215px;\"/>')
-   });
-</script>
-<!-- This is a hacky way of lowering the title text slightly by inserting a period that is the same color as the background. I'll want to improve this eventually.  -->
-<p><span style="color: #E1DBE5;">.</span></p>
+<div style="display: flex;">
+<div>
+<p><img src="cephalotesQueenPadded.gif" width="2160px"/></p>
+</div>
 <div
 id="how-can-one-genome-produce-multiple-highly-divergent-phenotypes"
 class="section level3">
@@ -305,6 +300,29 @@ the large-gastered queen and much smaller worker ants are genetically
 identical. My research leverages comparative genomics and developmental
 transcriptomics in the ant genus <em>Cephalotes</em> to better
 understand the genetic mechanisms which may produce ant castes.</p>
+</div>
+</div>
+<div style="display: flex;">
+<div>
+<p><img src="Lifecycle.png" style="width:90.0%" /></p>
+</div>
+<div
+id="how-does-trait-decoupling-through-development-influence-diversification"
+class="section level3">
+<h3>How does trait (de)coupling through development influence
+diversification?</h3>
+<p>Insects, particularly holometabolous insects, produce multiple
+phenotypes throughout their life cycle: eggs, larvae, pupae, and adults.
+If different life stages are adapted to different conditions and thus
+their traits are decoupled across development, this may promote
+diversification. Research in this area seeks to test this hypothesis,
+exploring whether trait decoupling does drive diversification and what
+kinds of traits are more or less likely to become decoupled.</p>
+</div>
+</div>
+<div style="display: flex;">
+<div>
+<p><img src="Social.png" style="width:90.0%" /></p>
 </div>
 <div
 id="how-do-social-traits-influence-genome-wide-patterns-of-evolution"
@@ -325,11 +343,17 @@ an increase in selection intensity across the genome, but to our
 surprise, caste system has no clear effect on molecular evolution. Check
 out our paper in <a
 href="https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evad095/7181139">Genome
-Biology and Evolution</a> to learn more.<br />
-<span style="color: #E1DBE5;">.</p>
-<p></span> <span style="color: #E1DBE5;">.</p>
-<p></span></p>
+Biology and Evolution</a> to learn more.</p>
 </div>
+</div>
+<!-- This adds the floating gif of a Cephalotes colony to the right of the text.  -->
+<!-- <script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"tallCephalotesCropped.gif\" style=\"float: right;padding: 50px 0px 0px 30px;width: 215px;\"/>')
+   });
+</script>
+-->
 </div>
 <div id="past-projects" class="section level2">
 <h2>Past projects</h2>
