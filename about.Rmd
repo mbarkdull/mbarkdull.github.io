@@ -23,7 +23,7 @@ I am an evolutionary biologist with an interest in the genetic basis and evoluti
 
 In January 2025, I will begin as the Assistant Curator of Entomology at the [Natural History Museum of Los Angeles County](https://nhm.org).
 
-Learn more about my [research, curation, and outreach here](aboutMegan.html). 
+Learn more about my [research, curation, and outreach here](aboutMegan.html), and find my [CV here](cv.html). 
 
 :::
 
