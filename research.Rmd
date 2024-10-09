@@ -30,7 +30,7 @@ output:
 ::: {}
 
 ### How can one genome produce multiple, highly divergent phenotypes?
-In some ant species, multiple distinct adult morphologies can develop from a single genotype via developmental plasticity, producing polymorphic caste systems. You can see this in the movie to the left: the large-gastered queen and much smaller worker ants are genetically identical. My research leverages comparative genomics and developmental transcriptomics in the ant genus *Cephalotes* to better understand the genetic mechanisms which may produce ant castes. 
+In some ant species, multiple distinct adult morphologies can develop from a single genotype via developmental plasticity, resulting in multiple, distinctive worker morphs. You can see this in the video to the left: the large-gastered queen and much smaller worker ants are genetically identical. My research leverages comparative genomics and developmental transcriptomics in the ant genus *Cephalotes* to better understand the genetic mechanisms which may produce ant castes. 
 
 :::
 
@@ -50,7 +50,7 @@ In some ant species, multiple distinct adult morphologies can develop from a sin
 ::: {}
 
 ### How does trait (de)coupling through development influence diversification?
-Insects, particularly holometabolous insects, produce multiple phenotypes throughout their life cycle: eggs, larvae, pupae, and adults. If different life stages are adapted to different conditions and thus their traits are decoupled across development, this may promote diversification. Research in this area seeks to test this hypothesis, exploring whether trait decoupling does drive diversification and what kinds of traits are more or less likely to become decoupled. 
+Insects, particularly holometabolous insects, produce multiple phenotypes throughout their life cycle: eggs, larvae, pupae, and adults. If different life stages are adapted to different conditions and thus their traits are decoupled across development, this decoupling may promote diversification. Research in this area seeks to test this hypothesis, exploring whether trait decoupling does drive diversification and what kinds of traits are more or less likely to become decoupled. 
 :::
 
 ::::
