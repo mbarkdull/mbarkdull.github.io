@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Barkdull Lab @ NMLAC"
 output: 
   html_document:
-    css: 'styles.css'
+    css: 'mainPage.css'
     includes:
       after_body: footer.html
 ---

@@ -70,3 +70,6 @@ body {
     text-decoration: none;
 }
 
+#header {
+    display: none;
+}
