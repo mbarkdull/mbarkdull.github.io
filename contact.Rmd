@@ -19,9 +19,9 @@ output:
 
 Please feel free to reach out:
 
-Email: <a href=mailto:“mb2337@cornell.edu”>mb2337 at cornell dot edu</a> 
+Email: <a href=mailto:“mbarkdull@nhm.org”>mbarkdull at nhm dot org</a> 
 
-Twitter: [@meganbarkdull_](https://x.com/meganbarkdull_)
+Bluesky: [@meganbarkdull.bsky.social](https://bsky.app/profile/meganbarkdull.bsky.social)
 
 GitHub: [mbarkdull](https://github.com/mbarkdull/)
 
