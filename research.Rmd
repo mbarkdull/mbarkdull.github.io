@@ -30,7 +30,7 @@ output:
 ::: {}
 
 ### How can one genome produce multiple, highly divergent phenotypes?
-In some ant species, multiple distinct adult morphologies can develop from a single genotype via developmental plasticity, resulting in multiple, distinctive worker morphs. You can see this in the video to the left: the large-gastered queen and much smaller worker ants are genetically identical. My research leverages comparative genomics and developmental transcriptomics in the ant genus *Cephalotes* to better understand the genetic mechanisms which may produce ant castes. 
+In some ant species, multiple distinct adult morphologies can develop from a single genotype via developmental plasticity, resulting in multiple, distinctive worker morphs. You can see this in the video to the left: the large-gastered queen and much smaller worker ants are genetically identical. My research leverages comparative genomics and developmental transcriptomics in the ant genus *Cephalotes* to better understand the genetic mechanisms which may produce ant morphs. 
 
 :::
 
@@ -40,7 +40,7 @@ In some ant species, multiple distinct adult morphologies can develop from a sin
 
 ::: {}
 
-![](landscape.png){ width=90% }
+![](landscape.png){ width=400% }
 
 
 :::
