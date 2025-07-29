@@ -11,9 +11,10 @@
 
 
 
-<title>Curatorial involvement</title>
+<title>curation.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -56,8 +57,7 @@ if (window.hljs) {
 
 
 
-<link rel="stylesheet" href="CSSBackgrounds.css" type="text/css" />
-<link rel="stylesheet" href="CSSFonts.css" type="text/css" />
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -82,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -172,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -181,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -234,12 +234,12 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Megan Barkdull</a>
+      <a class="navbar-brand" href="index.html">Barkdull Lab</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -247,19 +247,13 @@ $(document).ready(function () {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="about.html">About Me</a>
-</li>
-<li>
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="curation.html">Curatorial involvement</a>
+  <a href="about.html">People</a>
 </li>
 <li>
-  <a href="cv.html">CV</a>
-</li>
-<li>
-  <a href="art.html">Art</a>
+  <a href="curation.html">Entomology at NHMLAC</a>
 </li>
 <li>
   <a href="contact.html">Contact</a>
@@ -276,26 +270,31 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Curatorial involvement</h1>
 
 </div>
 
 
-<p><img src="FfYMFig3.png" /></p>
-
-
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<!-- Add font awesome icons -->
-<div class="socialMediaLinks">
-<p style="text-align: center;">
-    <a href="https://twitter.com/meganbarkdull_" class="fa fa-twitter" target="_blank"> 
-</a>
-    <a href="https://github.com/mbarkdull/" class="fa fa-github" target="_blank"> 
-    </a>
-</p>
+<div id="entomology-at-nhmlac" class="section level2">
+<h2>Entomology at NHMLAC</h2>
+<p>I have the privilege of working with my fellow Assistant Curator, <a
+href="https://rmonjaraz.github.io">Dr. Rodrigo Monjaraz-Ruedas</a>, our
+Collections Manager Giar-Ann Kung, and our staff to steward the
+Entomology collection at the NHMLAC. Our holdings include approximately
+six million pinned specimens; tens of thousands of specimens preserved
+in ethanol; and a growing frozen collection. The collection’s strength
+lies in its holdings of specimens of ants, phorid flies, scarab beetles,
+moths from North and Central America, and arthropods from the LA
+region.</p>
+<p>We welcome the use of our collections by external researchers,
+whether through collaborations with our team or through specimen loans.
+To see our loan policies, <a
+href="https://nhm.org/collections-use-and-loan-policies-entomology">click
+here</a>, and to request a loan, please fill out <a
+href="https://docs.google.com/forms/d/e/1FAIpQLScTgfHOMjedHdjCRvD5rpMi_qhVToTxpRXkyADMPROh5-AwiQ/viewform">the
+Google Form linked here</a>.</p>
+<p><img src="drawer.gif" /></p>
 </div>
+
 
 
 

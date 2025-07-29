@@ -9,6 +9,8 @@ navbar:
       href: research.html
     - text: "People"
       href: about.html
+    - text: "Entomology at NHMLAC"
+      href: curation.html
     - text: "Contact"
       href: contact.html
 output:

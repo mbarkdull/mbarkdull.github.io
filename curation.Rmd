@@ -1,10 +1,11 @@
---- 
-title: "Curatorial involvement"
-output: 
-  html_document:
-    css: ['CSSBackgrounds.css', 'CSSFonts.css', 'styles.css']
-    includes:
-      after_body: footer.html
+---
+output: html_document
 ---
 
-![](FfYMFig3.png)
+## Entomology at NHMLAC
+
+I have the privilege of working with my fellow Assistant Curator, [Dr. Rodrigo Monjaraz-Ruedas](https://rmonjaraz.github.io), our Collections Manager Giar-Ann Kung, and our staff to steward the Entomology collection at the NHMLAC. Our holdings include approximately six million pinned specimens; tens of thousands of specimens preserved in ethanol; and a growing frozen collection. The collection's strength lies in its holdings of specimens of ants, phorid flies, scarab beetles, moths from North and Central America, and arthropods from the LA region.
+
+We welcome the use of our collections by external researchers, whether through collaborations with our team or through specimen loans. To see our loan policies, [click here](https://nhm.org/collections-use-and-loan-policies-entomology), and to request a loan, please fill out [the Google Form linked here](https://docs.google.com/forms/d/e/1FAIpQLScTgfHOMjedHdjCRvD5rpMi_qhVToTxpRXkyADMPROh5-AwiQ/viewform). 
+
+![](drawer.gif)
