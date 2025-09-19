@@ -42,7 +42,7 @@ Learn more about my [research, curation, and outreach here](aboutMegan.html), fi
 
 ::: {}
 
-### Dr. Austin Baker
+### Austin Baker
 
 Dr. Austin Baker is a postdoctoral scholar here at the NHMLAC, where he spearheads the state-funded California Insect Barcoding Initiative, a major multi-institutional effort to generate DNA barcodes for every insect species in the state. Austin holds a Ph.D. in Entomology from the University of California, Riverside, and his research interests are in insect systematics, evolution, biodiversity, and natural history. 
 :::
