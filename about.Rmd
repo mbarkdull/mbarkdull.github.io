@@ -11,7 +11,7 @@ output:
 
 ::: {}
 
-![](./headshotSmaller.png){ width=90% }
+![](./headshotSmaller.png){ width=75% }
 
 :::
 
@@ -31,11 +31,57 @@ Learn more about my [research, curation, and outreach here](aboutMegan.html), fi
 
 
 
+
 :::: {style="display: flex;"}
 
 ::: {}
 
-![](keysSunset.png){ width=90% }
+![](./austinBaker.png){ width=75% }
+
+:::
+
+::: {}
+
+### Dr. Austin Baker
+
+Dr. Austin Baker is a postdoctoral scholar here at the NHMLAC, where he spearheads the state-funded California Insect Barcoding Initiative, a major multi-institutional effort to generate DNA barcodes for every insect species in the state. Austin holds a Ph.D. in Entomology from the University of California, Riverside, and his research interests are in insect systematics, evolution, biodiversity, and natural history. 
+:::
+
+::::
+
+
+
+
+:::: {style="display: flex;"}
+
+::: {}
+
+![](./yumeKamal.png){ width=75% }
+
+:::
+
+::: {}
+
+### Yume Kamal
+
+Yume Kamal is a Master's student at CSU Domiguez Hills, co-advised by myself and [Dr. Terry McGlynn](https://leaflitter.org). Yume is studying intraspecific variation in near-infrared reflectivity among ant species with widespread North American distributions. To do so, her work leverages museum specimens, imaging techniques, and bioinformatics. 
+
+:::
+
+::::
+
+
+
+
+
+
+
+
+:::: {style="display: flex;"}
+
+::: {}
+
+![](keysSunset.png){ width=75% }
 
 :::
 
@@ -43,7 +89,7 @@ Learn more about my [research, curation, and outreach here](aboutMegan.html), fi
 
 ### You?
 
-Interested in appearing here? Please contact me if you are interested in being a postdoctoral associate or undergraduate working on an independent project. I am particularly interested in working with prospective postdoctoral researchers to craft fellowship proposals (e.g. for the [NSF PRFB](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or [La Kretz Fellowship](https://www.ioes.ucla.edu/lakretz/our-work/fellowships/)). 
+Please contact me if you are interested in being a postdoctoral associate or undergraduate working on an independent project. I am particularly interested in working with prospective postdoctoral researchers to craft fellowship proposals (e.g. for the [NSF PRFB](https://new.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or [La Kretz Fellowship](https://www.ioes.ucla.edu/lakretz/our-work/fellowships/)). 
 
 :::
 
