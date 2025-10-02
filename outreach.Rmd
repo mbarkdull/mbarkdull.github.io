@@ -10,6 +10,7 @@ Jump to:
 
 1. [Spiny and spiky](#a-spiky)
 2. [Eye can't see you](#a-eye)
+3. [What do tarantulas have nightmares about?](#a-nightmare)
 
 ### Spiny and Spiky {#a-spiky}
 
@@ -78,3 +79,11 @@ Specimens:
 35. Flower mantis, family [Hymenopodidae](https://en.wikipedia.org/wiki/Hymenopodidae)
 36. Rothschild's silk moth, [*Rothschildia* sp.](https://en.wikipedia.org/wiki/Rothschildia) 
 37. Man-faced stinkbug, [*Catacanthus* sp. ](https://en.wikipedia.org/wiki/Catacanthus)
+
+### What do tarantulas have nightmares about? {#a-nightmare}
+
+![](tarantulaNightmare.png)
+
+1-16. Tarantula hawk wasps, [*Pepsis* sp. ](https://en.wikipedia.org/wiki/Pepsis)
+
+17. King baboon tarantula, [*Pelinobius muticus*](https://en.wikipedia.org/wiki/King_baboon_spider)
