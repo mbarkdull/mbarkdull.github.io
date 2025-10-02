@@ -8,33 +8,37 @@ List of outreach drawers used by the NHMLAC Entomology Department:
 
 Jump to:
 
-1. [Spiny and spiky](#a-spiky)
+1. [Warning coloration](#a-warning)
 2. [Eye can't see you](#a-eye)
 3. [What do tarantulas have nightmares about?](#a-nightmare)
+4. [Spiny and spiky](#a-spiky)
 
-### Spiny and Spiky {#a-spiky}
+### Warning coloration {#a-warning}
 
-![](spinyAndSpikyOutreachDrawer.png)
+![](warningColoration.png)
+
 Specimens:
 
-1. 
-2. 
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
+1. A planthopper in the family [Fulgoridae](https://en.wikipedia.org/wiki/Fulgoridae)
+2. A [flower mantis](https://en.wikipedia.org/wiki/Flower_mantis) from Southeast Asia
+3. The moth [*Catocala faustina*](https://en.wikipedia.org/wiki/Catocala_faustina)
+4. Red-winged grasshopper [*Arphia pseudonietana*](https://en.wikipedia.org/wiki/Arphia_pseudonietana)
+5. A [flower mantis](https://en.wikipedia.org/wiki/Flower_mantis) from Southeast Asia
+6. Sawtoothed fulgorid, [*Cathedra serrata*](https://en.wikipedia.org/wiki/Cathedra_serrata)
+7. Queen butterfly, [*Danaus gilippus*](https://en.wikipedia.org/wiki/Queen_(butterfly))
+8. Vicery butterfly,  [*Limenitis archippus*](https://en.wikipedia.org/wiki/Viceroy_(butterfly))
+9. Monarch butterfly, [*Danaus plexippus*](https://en.wikipedia.org/wiki/Monarch_butterfly)
+10. Unidentified wasp
+11. Unidentified wasp
+12. Sycamore borer moth, [*Synanthedon resplendens*](https://en.wikipedia.org/wiki/Synanthedon_resplendens)
+13. Blackberry clearwing borer moth, [*Pennisetia marginata*](https://en.wikipedia.org/wiki/Pennisetia_marginata)
+14. Hornet moth, [*Sesia apiformis*](https://en.wikipedia.org/wiki/Hornet_moth)
+15. Unidentified wasp
+16. Garden tiger moth, [*Arctia caja*](https://en.wikipedia.org/wiki/Garden_tiger_moth)
+17. Magnificent velvet ant, [*Dasymutilla magnifica*](https://en.wikipedia.org/wiki/Dasymutilla_magnifica)
+18. Garden tiger moth, [*Arctia caja*](https://en.wikipedia.org/wiki/Garden_tiger_moth)
+19. Garden tiger moth, [*Arctia caja*](https://en.wikipedia.org/wiki/Garden_tiger_moth)
+20. Garden tiger moth, [*Arctia caja*](https://en.wikipedia.org/wiki/Garden_tiger_moth)
 
 ### Eye can't see you {#a-eye}
 
@@ -87,3 +91,27 @@ Specimens:
 1-16. Tarantula hawk wasps, [*Pepsis* sp. ](https://en.wikipedia.org/wiki/Pepsis)
 
 17. King baboon tarantula, [*Pelinobius muticus*](https://en.wikipedia.org/wiki/King_baboon_spider)
+
+### Spiny and Spiky {#a-spiky}
+
+![](spinyAndSpikyOutreachDrawer.png)
+Specimens:
+
+1. 
+2. 
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
