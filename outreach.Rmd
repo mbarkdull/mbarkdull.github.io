@@ -97,21 +97,21 @@ Specimens:
 ![](spinyAndSpikyOutreachDrawer.png)
 Specimens:
 
-1. 
-2. 
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
+1. Malaysian giant cricket,	[*Sia incisa*](https://en.wikipedia.org/wiki/Sia_(insect))
+2. Giant red-winged grasshopper,	[8Tropidacris dux*](https://en.wikipedia.org/wiki/Tropidacris)
+3. Giant cricket, [*Sia* sp.](https://en.wikipedia.org/wiki/Sia_(insect))
+4. Dragon head cricket, [*Cosmoderus* sp.](https://www.inaturalist.org/taxa/509217-Cosmoderus)
+5. Spiny lobster katydid, [*Panoplocelus specularis*](https://en.wikipedia.org/wiki/Panoploscelis)
+6. Bronze glandular bush-cricket, [*Bradyporus dasypus*](https://www.inaturalist.org/taxa/475588-Bradyporus-dasypus)
+7. Mole cricket	in the family [Gryllotalpidae](https://en.wikipedia.org/wiki/Mole_cricket)
+8. African mole cricket,	[*Grillotalpa* sp.](https://en.wikipedia.org/wiki/Gryllotalpa)
+9. De Haan's haaniella, [*Haaniella dehaanii*](https://en.wikipedia.org/wiki/Haaniella_dehaanii)
+10. Maize cricket, [*Schizodactylua monstrosus*](https://en.wikipedia.org/wiki/Schizodactylus_monstrosus)
+11. Purple-winged grasshopper, [*Titanacris albipes*](https://en.wikipedia.org/wiki/Titanacris_albipes)
+12. Tobacco cricket, [*Brachytripes membranaceus*](https://en.wikipedia.org/wiki/Brachytrupes_membranaceus)
+13. Rainbow milkweed locust, [*Phymateus saxosus*](https://www.calacademy.org/rainbow-milkweed-locust)
+14. Horse lubber grasshopper, [*Taeniopoda gutturosa*](https://en.wikipedia.org/wiki/Taeniopoda)
+15. Giant prickly stick insect,	[*Extatosoma tiaratum*](https://en.wikipedia.org/wiki/Extatosoma_tiaratum)
+16. Lichen katydid, [*Markia hystrix*](https://en.wikipedia.org/wiki/Markia_hystrix)
+17. Katydid	in the family [Tettigoniidae](https://en.wikipedia.org/wiki/Tettigoniidae)
+18. Leaf-mimicking katydid, [*Aegimia* sp.](https://en.wikipedia.org/wiki/Leaf-mimic_katydid)
