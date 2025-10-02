@@ -7,7 +7,9 @@ output: html_document
 List of outreach drawers used by the NHMLAC Entomology Department:
 
 Jump to:
+
 1. [Spiny and spiky](#a-spiky)
+2. [Eye can't see you](#a-eye)
 
 ### Spiny and Spiky {#a-spiky}
 
@@ -32,3 +34,47 @@ Specimens:
 16.
 17.
 18.
+
+### Eye can't see you {#a-eye}
+
+![](eyeCantSeeYou.png)
+
+Specimens:
+
+1. Buckeye butterfly, [*Junonia coenia*](https://en.wikipedia.org/wiki/Junonia_coenia)
+2. Death's head hawkmoth, [*Acherontia* sp.](https://en.wikipedia.org/wiki/Death%27s-head_hawkmoth)
+3. Giant metallic Ceiba borer, [*Euchroma giganteum*](https://en.wikipedia.org/wiki/Euchroma_giganteum)
+4. Giant metallic Ceiba borer, [*Euchroma giganteum*](https://en.wikipedia.org/wiki/Euchroma_giganteum)
+5. Owl moth, [*Brahmaea wallichii*](https://en.wikipedia.org/wiki/Brahmaea_wallichii)
+6. California dogface butterfly, [*Zerene eurydice*](https://en.wikipedia.org/wiki/Zerene_eurydice)
+7. California dogface butterfly, [*Zerene eurydice*](https://en.wikipedia.org/wiki/Zerene_eurydice)
+8. False eyed jewel beetle, [*Madecassia rothschildi*](https://beetlesinthebush.com/2012/01/31/a-living-jewel-madecassia-rothschildi/)
+9. [Click beetle](https://en.wikipedia.org/wiki/Click_beetle), *Abiphis insignis*
+10. Silky owl butterfly, [*Taenaris catops turgula*](https://en.wikipedia.org/wiki/Taenaris_catops)
+11. Longhorn beetle, [*Rhaphidopsis melaleuca*](https://en.wikipedia.org/wiki/Rhaphidopsis_melaleuca)
+12. Owl butterfly, [*Taenaris* sp.](https://en.wikipedia.org/wiki/Taenaris)
+13. Buckeye butterfly, [*Junonia coenia*](https://en.wikipedia.org/wiki/Junonia_coenia)
+14. Pink clearwing butterfly, [*Cithaerias* sp. ](https://en.wikipedia.org/wiki/Cithaerias)
+15. Eyed silk moth, [*Automeris* sp.](https://en.wikipedia.org/wiki/Automeris)
+16. Click beetle from the family [Elateridae](https://en.wikipedia.org/wiki/Click_beetle)
+17. Owl butterfly, [*Caligo* sp.](https://en.wikipedia.org/wiki/Owl_butterfly)
+18. Owl butterfly, [*Taenaris* sp.](https://en.wikipedia.org/wiki/Taenaris)
+19. California dogface butterfly, [*Zerene eurydice*](https://en.wikipedia.org/wiki/Zerene_eurydice)
+20. California dogface butterfly, [*Zerene eurydice*](https://en.wikipedia.org/wiki/Zerene_eurydice)
+21. Brown butterfly, [*Erites* sp.](http://tolweb.science.oregonstate.edu/Erites/88324)
+22. Buckeye butterfly, [*Junonia coenia*](https://en.wikipedia.org/wiki/Junonia_coenia)
+23. Peanut-headed lanternfly, [*Fulgora laternaria*](https://en.wikipedia.org/wiki/Fulgora_laternaria)
+24. Giant metallic Ceiba borer, [*Euchroma giganteum*](https://en.wikipedia.org/wiki/Euchroma_giganteum)
+25. Flat-faced longhorn beetle, [*Prosopocera antennata quadripunctata*](https://en.wikipedia.org/wiki/Prosopocera_antennata)
+26. Reddish clearwing satyr butterfly, [*Haetera macleannania*](https://en.wikipedia.org/wiki/Haetera)
+27. Tropical buckeye, [*Junonia evarete*](https://en.wikipedia.org/wiki/Junonia_evarete)
+28. Rothschild's silk moth, [*Rothschildia* sp.](https://en.wikipedia.org/wiki/Rothschildia) 
+29. Southwestern eyed hawkmoth, [*Smerinthus* sp.](https://en.wikipedia.org/wiki/Smerinthus) 
+30. Peanut-headed lanternfly, [*Fulgora laternaria*](https://en.wikipedia.org/wiki/Fulgora_laternaria)
+31. Peacock butterfly, [*Aglais io*](https://en.wikipedia.org/wiki/Aglais_io)
+32. Flower mantis, family [Hymenopodidae](https://en.wikipedia.org/wiki/Hymenopodidae)
+33. Sawtoothed fulgorid, [*Cathedra serrata*](https://en.wikipedia.org/wiki/Cathedra_serrata)
+34. Pompom flower beetle, [*Cheirolasia burkei*](https://www.inaturalist.org/taxa/518632-Cheirolasia-burkei)
+35. Flower mantis, family [Hymenopodidae](https://en.wikipedia.org/wiki/Hymenopodidae)
+36. Rothschild's silk moth, [*Rothschildia* sp.](https://en.wikipedia.org/wiki/Rothschildia) 
+37. Man-faced stinkbug, [*Catacanthus* sp. ](https://en.wikipedia.org/wiki/Catacanthus)
