@@ -13,6 +13,7 @@ Jump to:
 3. [What do tarantulas have nightmares about?](#a-nightmare)
 4. [Spiny and spiky](#a-spiky)
 5. [Arachnids and Centipedes](#a-arachnids)
+6. [Giant Silk Moths of North America](#a-silk)
 
 ### Warning coloration {#a-warning}
 
@@ -140,3 +141,26 @@ Specimens:
 16. Yellow Fat-Tailed Scorpion, *Androctonus australis*
 17. Florida Bark Scorpion, *Centruroides gracilis*
 18. Emperor Scorpion, *Pandinus imperator*
+
+### Giant Silk Moths of North America {#a-silk}
+
+![](moths.png)
+
+1. Io Silkmoth, *Automeris io,* Male
+2. Io Silkmoth, *Automeris io,* Female
+3. Mendocino Silkmoth, *Saturnia mendocino,* Male
+4. Mendocino Silkmoth, *Saturnia mendocino,* Female
+5. Homogena Silkmoth, *Saturnia homogena* 
+6. Ceanothus Silkmoth, *Hyalophora euryalus* 
+7. Polyphemus Silkmoth, *Antheraea polyphemus* 
+8. Ailanthus Silkmoth, *Samia cynthia* 
+9. Montana Silkmoth, *Syssphinx montana* 
+10. Promethea Moth, *Callosamia promethea* 
+11. Hubbard's Silkmoth, *Syssphinx hubbardi* 
+12. Orizaba Silkmoth, *Rothschildia orizaba* 
+13. Pink-Striped Oakworm Moth, *Anisota virginiensis* 
+14. Luna Moth, *Actias luna* 
+15. Regal Moth, *Citheronia regalis* 
+16. Imperial Moth, *Eacles imperialis* 
+17. Oslar's Silkmoth, *Eacles oslari* 
+18. Pandora Silkmoth, *Coloradia pandora* 
