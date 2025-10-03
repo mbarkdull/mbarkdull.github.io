@@ -12,6 +12,7 @@ Jump to:
 2. [Eye can't see you](#a-eye)
 3. [What do tarantulas have nightmares about?](#a-nightmare)
 4. [Spiny and spiky](#a-spiky)
+5. [Arachnids and Centipedes](#a-arachnids)
 
 ### Warning coloration {#a-warning}
 
@@ -98,7 +99,7 @@ Specimens:
 Specimens:
 
 1. Malaysian giant cricket,	[*Sia incisa*](https://en.wikipedia.org/wiki/Sia_(insect))
-2. Giant red-winged grasshopper,	[8Tropidacris dux*](https://en.wikipedia.org/wiki/Tropidacris)
+2. Giant red-winged grasshopper,	[*Tropidacris dux*](https://en.wikipedia.org/wiki/Tropidacris)
 3. Giant cricket, [*Sia* sp.](https://en.wikipedia.org/wiki/Sia_(insect))
 4. Dragon head cricket, [*Cosmoderus* sp.](https://www.inaturalist.org/taxa/509217-Cosmoderus)
 5. Spiny lobster katydid, [*Panoplocelus specularis*](https://en.wikipedia.org/wiki/Panoploscelis)
@@ -115,3 +116,27 @@ Specimens:
 16. Lichen katydid, [*Markia hystrix*](https://en.wikipedia.org/wiki/Markia_hystrix)
 17. Katydid	in the family [Tettigoniidae](https://en.wikipedia.org/wiki/Tettigoniidae)
 18. Leaf-mimicking katydid, [*Aegimia* sp.](https://en.wikipedia.org/wiki/Leaf-mimic_katydid)
+
+### Arachnids and Centipedes {#a-arachnids}
+
+![](arachnids.png)
+Specimens:
+
+1. Pink-Toe Tarantula, *Avicularia* sp.
+2. Giant Orange Legged Centipede, *Scolopendra subspinipes*
+3. African Burrowing Scorpion, *Opisthophtalmus* sp.
+4. Thicktail Scorpion, *Parabuthus* sp.
+5. African Flat Rock Scorpion, *Hadogenes troglodytes*
+6. Giant Asian Forest Scorpion, *Heterometrus spinifer*
+7. Asian Long-Clawed Scorpion, *Heterometrus longimanus*
+8. Mexican Red- Knee Tarantula, *Brachypelma hamorii*
+9. South American Giant Tarantula, *Pamphobeteus* sp.
+10. Yellow Fat-Tailed Scorpion, *Androctonus australis*
+11. Emperor Scorpion, *Pandinus imperator*
+12. Giant Camel Spider, *Rhagodes* sp.
+13. North American Camel Spider, *Eremobates* sp.
+14. Giant Camel Spider, *Rhagodes* sp.
+15. GIant Golden Orb Weaver, *Nephila pilipes*
+16. Yellow Fat-Tailed Scorpion, *Androctonus australis*
+17. Florida Bark Scorpion, *Centruroides gracilis*
+18. Emperor Scorpion, *Pandinus imperator*
