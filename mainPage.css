@@ -5,7 +5,7 @@
 h1, h2, h3 {
  font-family: 'Archivo Black', sans-serif;
  font-weight: 700;
- color: #61344e;
+ color: #104261;
 }
 
 body {
@@ -21,28 +21,28 @@ p {
 
 /* This sets the link text color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
 
-a { color: #386e73; } /* CSS link color */
+a { color: #206061; } /* CSS link color */
 
 
 /*----------------NAVBAR ---------------*/
 .navbar-default {
-    background-color: #bda8b4;
+    background-color: #dfe089;
 }
 
 .navbar-default .navbar-nav>.open>a, 
 .navbar-default .navbar-nav>.active>a, 
 dropdown-toggle:hover {
-  background-color: #bda8b4;
+  background-color: #dfe089;
 }
 
 /* Dropdown menu color */
 .navbar-default .dropdown-menu {
-  background-color: #bda8b4;
+  background-color: #dfe089;
 }
 
 /* Dropdown menu hover color */
   .navbar-default .dropdown-menu>li>a:hover {
-    background-color: #bda8b4;
+    background-color: #dfe089;
   }
 
 /* Navbar Links when hovered*/
@@ -51,14 +51,14 @@ dropdown-toggle:hover {
 .navbar-default .navbar-nav:hover, 
 .navbar-default .navbar-nav>li>a:hover, 
 navbar-brand:hover {
-  color: #edebe6;
-  background-color: #bda8b4;
+  color: #ffffff;
+  background-color: #dfe089;
 }
 
 /* This sets the background body color; you can pick colors at this site: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool*/
 
 body {
-  background-color: #edebe6 ;
+  background-color: #fffdfc ;
 }
 
 /* This formats the social media icons on the contact page. The icons at the bottom of each page have just the default formatting. */
@@ -66,7 +66,7 @@ body {
 .socialMediaLinks a {
     font-size: 35px;
     margin: 0 10px 0 0;
-    color: #000000;
+    color: #02195a;
     text-decoration: none;
 }
 
