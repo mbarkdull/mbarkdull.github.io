@@ -1,5 +1,5 @@
 ---
-title: "Barkdull Lab @ NMLAC"
+title: "Barkdull Lab at NMLAC"
 output: 
   html_document:
     css: 'mainPage.css'
