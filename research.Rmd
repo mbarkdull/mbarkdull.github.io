@@ -57,23 +57,6 @@ Evolutionary patterns and processes are influenced by landscapes. When the lands
 ::::
 
 
-:::: {style="display: flex;"}
-
-::: {}
-
-![](Lifecycle.png){ width=90% }
-
-
-:::
-
-::: {}
-
-### How does trait (de)coupling through development influence diversification?
-Insects, particularly holometabolous insects, produce multiple phenotypes throughout their life cycle: eggs, larvae, pupae, and adults. If different life stages are adapted to different conditions and thus their traits are decoupled across development, this decoupling may promote diversification. Research in this area seeks to test this hypothesis, exploring whether trait decoupling does drive diversification and what kinds of traits are more or less likely to become decoupled. 
-:::
-
-::::
-
 
 
 
